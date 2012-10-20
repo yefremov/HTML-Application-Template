@@ -9,7 +9,6 @@ requirejs.config({
   , 'backbone': 'lib/backbone'
     // Plugins
   , 'jquery.easing': 'plugin/jquery.easing.1.3'
-  , 'jquery.minmax': 'plugin/jquery.minmax'
   }
 });
 

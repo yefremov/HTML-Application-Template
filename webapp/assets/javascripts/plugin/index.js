@@ -1,2 +1,2 @@
-define(['jquery.easing', 'plugin/jquery.minmax'], function () {
+define(['jquery.easing'], function () {
 });

@@ -1,3 +1,6 @@
-define(['backbone', 'plugins'], function () {
-
+define([
+  'backbone'
+, 'plugins'
+  ], function () {
+  // Application initialization
 });

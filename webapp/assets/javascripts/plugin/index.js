@@ -1,2 +1,5 @@
-define(['jquery.easing'], function () {
+define([
+  'jquery.easing'
+  ], function () {
+  // Plugins initialization
 });

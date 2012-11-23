@@ -1,6 +1,6 @@
 define([
   'backbone'
-, 'plugins'
+, 'plugin'
   ], function () {
   // Application initialization
 });

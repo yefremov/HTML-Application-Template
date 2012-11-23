@@ -1,5 +1,5 @@
 define([
-  'jquery.easing'
+  'plugin.jquery.easing'
   ], function () {
   // Plugins initialization
 });

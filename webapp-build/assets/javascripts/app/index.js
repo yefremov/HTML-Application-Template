@@ -1,1 +1,1 @@
-define(["backbone","plugins"],function(){})
+define(["backbone","plugin"],function(){});

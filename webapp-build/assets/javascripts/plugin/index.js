@@ -1,1 +1,1 @@
-define(["jquery.easing"],function(){})
+define(["plugin.jquery.easing"],function(){});

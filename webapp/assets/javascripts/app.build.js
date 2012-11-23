@@ -7,7 +7,7 @@
   }
 , 'dir':                      '../../../webapp-build'
 , 'locale':                   'en-us'
-, 'optimize':                 'uglify'
+, 'optimize':                 'uglify2'
 , 'optimizeCss':              'standard'
 , 'modules': [{
     'name':                   'main'
